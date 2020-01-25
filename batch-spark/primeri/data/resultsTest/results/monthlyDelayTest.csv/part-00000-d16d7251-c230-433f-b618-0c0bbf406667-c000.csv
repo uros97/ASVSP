@@ -1,0 +1,4 @@
+Year,Month,NumberOfFlights,DelayedMoreThan15MinPercentage,CancelledPercentage,DivertedPercentage
+2018,4,11,36.4,0.0,0.0
+2018,8,10,50.0,0.0,0.0
+2018,9,11,9.1,0.0,0.0

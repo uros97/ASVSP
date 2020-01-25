@@ -1,0 +1,18 @@
+AirportId,StateName,CityName,AirportName,NumberOfFlights,DelayedMoreThan15MinPercentage,CancelledPercentage,DivertedPercentage
+12892,California,"Los Angeles, CA",LAX,1,0.0,0.0,0.0
+14771,California,"San Francisco, CA",SFO,2,50.0,0.0,0.0
+14908,California,"Santa Ana, CA",SNA,1,100.0,0.0,0.0
+11292,Colorado,"Denver, CO",DEN,2,0.0,0.0,0.0
+15304,Florida,"Tampa, FL",TPA,1,100.0,0.0,0.0
+14685,Georgia,"Savannah, GA",SAV,1,0.0,0.0,0.0
+13930,Illinois,"Chicago, IL",ORD,2,50.0,0.0,0.0
+11618,New Jersey,"Newark, NJ",EWR,2,50.0,0.0,0.0
+12953,New York,"New York, NY",LGA,5,0.0,0.0,0.0
+14492,North Carolina,"Raleigh/Durham, NC",RDU,1,0.0,0.0,0.0
+14057,Oregon,"Portland, OR",PDX,1,0.0,0.0,0.0
+10693,Tennessee,"Nashville, TN",BNA,1,100.0,0.0,0.0
+10423,Texas,"Austin, TX",AUS,2,50.0,0.0,0.0
+11298,Texas,"Dallas/Fort Worth, TX",DFW,6,16.7,0.0,0.0
+12266,Texas,"Houston, TX",IAH,2,50.0,0.0,0.0
+14524,Virginia,"Richmond, VA",RIC,1,100.0,0.0,0.0
+14747,Washington,"Seattle, WA",SEA,1,0.0,0.0,0.0

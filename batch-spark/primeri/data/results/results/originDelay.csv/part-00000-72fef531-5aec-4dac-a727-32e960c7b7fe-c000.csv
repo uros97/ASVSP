@@ -1,0 +1,326 @@
+AirportId,StateName,CityName,AirportName,NumberOfFlights,DelayedMoreThan15MinPercentage,CancelledPercentage,DivertedPercentage
+10599,Alabama,"Birmingham, AL",BHM,23884,14.2,1.5,0.2
+11308,Alabama,"Dothan, AL",DHN,2638,17.5,1.1,0.1
+12217,Alabama,"Huntsville, AL",HSV,7998,11.0,1.5,0.2
+13422,Alabama,"Mobile, AL",MOB,8786,14.9,2.0,0.3
+13277,Alabama,"Montgomery, AL",MGM,4081,17.4,1.2,0.1
+10165,Alaska,"Adak Island, AK",ADK,208,22.6,4.3,0.0
+10299,Alaska,"Anchorage, AK",ANC,34501,10.1,0.7,0.4
+10754,Alaska,"Barrow, AK",BRW,1841,9.2,2.6,0.3
+10551,Alaska,"Bethel, AK",BET,1938,8.5,2.4,0.1
+10926,Alaska,"Cordova, AK",CDV,1448,11.3,1.4,1.1
+14709,Alaska,"Deadhorse, AK",SCC,1561,7.8,2.5,1.7
+11336,Alaska,"Dillingham, AK",DLG,168,13.1,0.6,0.0
+11630,Alaska,"Fairbanks, AK",FAI,5548,10.7,0.6,0.2
+11997,Alaska,"Gustavus, AK",GST,168,16.7,3.0,0.0
+12523,Alaska,"Juneau, AK",JNU,9006,11.4,0.9,0.5
+12819,Alaska,"Ketchikan, AK",KTN,4901,11.8,1.3,0.3
+10245,Alaska,"King Salmon, AK",AKN,126,15.9,0.0,0.0
+10170,Alaska,"Kodiak, AK",ADQ,1163,9.8,3.9,0.0
+13970,Alaska,"Kotzebue, AK",OTZ,1445,11.3,3.6,0.7
+13873,Alaska,"Nome, AK",OME,1443,12.3,3.3,0.1
+14256,Alaska,"Petersburg, AK",PSG,1454,12.1,1.6,0.3
+14828,Alaska,"Sitka, AK",SIT,2718,10.0,0.7,0.5
+15235,Alaska,"Tokeen, AK",TKI,1,"",0.0,100.0
+15841,Alaska,"Wrangell, AK",WRG,1454,13.0,1.4,0.8
+15991,Alaska,"Yakutat, AK",YAK,1449,9.0,2.5,1.0
+10590,Arizona,"Bullhead City, AZ",IFP,319,19.4,0.0,0.0
+11695,Arizona,"Flagstaff, AZ",FLG,3181,10.0,1.8,0.0
+14107,Arizona,"Phoenix, AZ",PHX,313634,16.8,0.6,0.2
+15376,Arizona,"Tucson, AZ",TUS,31489,16.0,0.8,0.2
+16218,Arizona,"Yuma, AZ",YUM,3339,8.9,0.1,0.0
+15919,Arkansas,"Fayetteville, AR",XNA,10916,14.4,1.5,0.3
+11778,Arkansas,"Fort Smith, AR",FSM,2184,12.1,0.9,0.1
+12992,Arkansas,"Little Rock, AR",LIT,16022,13.8,1.0,0.3
+15401,Arkansas,"Texarkana, AR",TXK,930,18.4,2.6,0.1
+10157,California,"Arcata/Eureka, CA",ACV,2619,22.0,4.2,0.0
+10561,California,"Bakersfield, CA",BFL,4779,11.4,0.9,0.2
+10800,California,"Burbank, CA",BUR,47654,17.8,1.8,0.2
+11638,California,"Fresno, CA",FAT,16648,16.1,0.7,0.2
+12954,California,"Long Beach, CA",LGB,27561,17.8,0.9,0.1
+12892,California,"Los Angeles, CA",LAX,427280,22.2,0.9,0.2
+13388,California,"Mammoth Lakes, CA",MMH,222,21.2,25.2,0.0
+13476,California,"Monterey, CA",MRY,5192,19.6,2.7,0.0
+13796,California,"Oakland, CA",OAK,99270,20.3,1.1,0.2
+13891,California,"Ontario, CA",ONT,40494,17.2,1.2,0.1
+14262,California,"Palm Springs, CA",PSP,19273,17.2,1.2,0.2
+14487,California,"Redding, CA",RDD,2060,20.1,4.2,0.2
+14893,California,"Sacramento, CA",SMF,86329,17.5,0.8,0.2
+14679,California,"San Diego, CA",SAN,162239,16.6,1.1,0.2
+14771,California,"San Francisco, CA",SFO,346989,23.0,1.7,0.2
+14831,California,"San Jose, CA",SJC,91205,17.2,0.9,0.2
+14698,California,"San Luis Obispo, CA",SBP,6715,20.4,2.0,0.0
+14908,California,"Santa Ana, CA",SNA,84382,15.7,1.0,0.3
+14689,California,"Santa Barbara, CA",SBA,11240,19.6,2.4,0.2
+14905,California,"Santa Maria, CA",SMX,557,19.4,3.1,0.0
+15023,California,"Santa Rosa, CA",STS,1111,25.7,5.7,0.1
+10372,Colorado,"Aspen, CO",ASE,9846,23.1,5.5,0.3
+11109,Colorado,"Colorado Springs, CO",COS,17518,16.9,1.1,0.3
+11292,Colorado,"Denver, CO",DEN,449301,18.1,1.0,0.3
+11413,Colorado,"Durango, CO",DRO,3271,15.3,1.2,0.4
+11503,Colorado,"Eagle, CO",EGE,3139,17.4,2.7,0.4
+11921,Colorado,"Grand Junction, CO",GJT,5509,7.4,0.5,0.2
+12012,Colorado,"Gunnison, CO",GUC,412,15.8,2.4,0.0
+12094,Colorado,"Hayden, CO",HDN,1993,18.5,2.3,0.1
+13502,Colorado,"Montrose/Delta, CO",MTJ,1821,15.8,2.1,0.2
+14288,Colorado,"Pueblo, CO",PUB,51,21.6,0.0,0.0
+10529,Connecticut,"Hartford, CT",BDL,42528,14.4,1.5,0.3
+11252,Florida,"Daytona Beach, FL",DAB,3987,12.4,1.4,0.2
+11697,Florida,"Fort Lauderdale, FL",FLL,173385,21.6,2.0,0.3
+14635,Florida,"Fort Myers, FL",RSW,59554,16.3,1.4,0.2
+11953,Florida,"Gainesville, FL",GNV,3762,16.2,1.1,0.3
+12451,Florida,"Jacksonville, FL",JAX,35789,14.9,1.9,0.2
+11624,Florida,"Key West, FL",EYW,3332,10.3,2.5,0.4
+13360,Florida,"Melbourne, FL",MLB,3014,11.3,1.3,0.2
+13303,Florida,"Miami, FL",MIA,137616,22.1,1.8,0.3
+13204,Florida,"Orlando, FL",MCO,257713,18.4,1.6,0.3
+11481,Florida,"Panama City, FL",ECP,8953,12.1,1.2,0.3
+14193,Florida,"Pensacola, FL",PNS,11280,12.1,1.3,0.2
+14082,Florida,"Punta Gorda, FL",PGD,289,20.1,6.2,0.7
+14986,Florida,"Sarasota/Bradenton, FL",SRQ,6457,15.1,1.4,0.3
+15497,Florida,"St. Augustine, FL",UST,261,26.1,1.9,0.0
+15249,Florida,"Tallahassee, FL",TLH,4646,12.2,1.2,0.2
+15304,Florida,"Tampa, FL",TPA,138116,16.3,1.4,0.2
+15624,Florida,"Valparaiso, FL",VPS,7790,12.9,1.4,0.4
+14027,Florida,"West Palm Beach/Palm Beach, FL",PBI,48733,20.4,1.9,0.3
+10146,Georgia,"Albany, GA",ABY,1623,14.5,0.6,0.1
+10397,Georgia,"Atlanta, GA",ATL,749030,15.5,1.0,0.2
+10208,Georgia,"Augusta, GA",AGS,4774,15.9,1.0,0.0
+10731,Georgia,"Brunswick, GA",BQK,1724,16.6,1.5,0.1
+11150,Georgia,"Columbus, GA",CSG,2066,17.2,1.2,0.0
+14685,Georgia,"Savannah, GA",SAV,15015,16.3,2.6,0.2
+15607,Georgia,"Valdosta, GA",VLD,1695,14.8,0.8,0.1
+12402,Hawaii,"Hilo, HI",ITO,12093,9.1,0.2,0.1
+12173,Hawaii,"Honolulu, HI",HNL,95613,9.5,0.3,0.1
+13830,Hawaii,"Kahului, HI",OGG,47593,11.3,0.4,0.2
+12758,Hawaii,"Kona, HI",KOA,25954,10.3,0.3,0.2
+12982,Hawaii,"Lihue, HI",LIH,24255,9.7,0.5,0.1
+10713,Idaho,"Boise, ID",BOI,30602,14.5,0.6,0.2
+12280,Idaho,"Idaho Falls, ID",IDA,4886,10.5,0.9,0.2
+13127,Idaho,"Lewiston, ID",LWS,1468,4.6,0.3,0.0
+14113,Idaho,"Pocatello, ID",PIH,1908,11.9,0.6,0.1
+15041,Idaho,"Sun Valley/Hailey/Ketchum, ID",SUN,2592,14.0,11.0,0.1
+15389,Idaho,"Twin Falls, ID",TWF,2237,13.4,0.8,0.5
+10685,Illinois,"Bloomington/Normal, IL",BMI,3657,15.4,1.2,0.2
+13232,Illinois,"Chicago, IL",MDW,175012,18.1,1.6,0.2
+13930,Illinois,"Chicago, IL",ORD,510542,21.0,1.5,0.3
+13367,Illinois,"Moline, IL",MLI,5481,14.8,1.2,0.2
+14108,Illinois,"Peoria, IL",PIA,5829,17.0,1.6,0.3
+15454,Illinois,"Quincy, IL",UIN,76,26.3,2.6,0.0
+14952,Illinois,"Springfield, IL",SPI,2885,15.1,2.4,0.2
+11612,Indiana,"Evansville, IN",EVV,4946,15.1,1.7,0.3
+11823,Indiana,"Fort Wayne, IN",FWA,9718,16.3,1.2,0.2
+12339,Indiana,"Indianapolis, IN",IND,53870,15.1,1.0,0.3
+14696,Indiana,"South Bend, IN",SBN,10598,16.4,1.3,0.3
+11003,Iowa,"Cedar Rapids/Iowa City, IA",CID,9743,15.3,1.4,0.2
+11423,Iowa,"Des Moines, IA",DSM,15960,13.9,1.1,0.2
+15048,Iowa,"Sioux City, IA",SUX,28,32.1,0.0,0.0
+10268,Iowa,"Waterloo, IA",ALO,473,18.2,1.3,0.0
+11867,Kansas,"Garden City, KS",GCK,614,16.9,2.1,0.5
+12255,Kansas,"Hays, KS",HYS,1251,11.2,3.1,0.2
+13290,Kansas,"Manhattan/Ft. Riley, KS",MHK,917,17.9,1.2,0.1
+12278,Kansas,"Wichita, KS",ICT,16011,12.9,1.2,0.3
+11193,Kentucky,"Cincinnati, OH",CVG,34295,16.0,1.0,0.2
+12945,Kentucky,"Lexington, KY",LEX,10427,17.1,2.1,0.2
+14730,Kentucky,"Louisville, KY",SDF,19900,14.9,1.5,0.3
+14006,Kentucky,"Paducah, KY",PAH,1363,14.7,3.3,0.3
+10185,Louisiana,"Alexandria, LA",AEX,4708,15.5,2.0,0.3
+10781,Louisiana,"Baton Rouge, LA",BTR,13490,17.7,1.9,0.3
+12951,Louisiana,"Lafayette, LA",LFT,5699,13.9,2.0,0.2
+12915,Louisiana,"Lake Charles, LA",LCH,2490,10.0,2.6,0.2
+13377,Louisiana,"Monroe, LA",MLU,5345,15.4,1.7,0.2
+13495,Louisiana,"New Orleans, LA",MSY,90385,16.8,1.1,0.2
+14814,Louisiana,"Shreveport, LA",SHV,10832,16.0,1.6,0.3
+10581,Maine,"Bangor, ME",BGR,1393,28.5,3.5,0.4
+14321,Maine,"Portland, ME",PWM,12375,18.8,3.3,0.2
+10821,Maryland,"Baltimore, MD",BWI,197233,17.0,1.7,0.2
+10721,Massachusetts,"Boston, MA",BOS,246716,19.6,1.7,0.3
+12250,Massachusetts,"Hyannis, MA",HYA,215,21.4,0.9,0.0
+13541,Massachusetts,"Martha's Vineyard, MA",MVY,489,33.3,1.2,0.2
+10154,Massachusetts,"Nantucket, MA",ACK,1277,27.6,2.0,0.1
+13933,Massachusetts,"Worcester, MA",ORH,1440,23.7,3.6,0.8
+10333,Michigan,"Alpena, MI",APN,1265,15.1,2.6,1.7
+11433,Michigan,"Detroit, MI",DTW,250568,15.9,0.9,0.2
+11587,Michigan,"Escanaba, MI",ESC,1251,15.2,2.2,0.2
+11721,Michigan,"Flint, MI",FNT,8078,13.0,1.8,0.2
+11986,Michigan,"Grand Rapids, MI",GRR,20126,14.5,1.6,0.2
+11076,Michigan,"Hancock/Houghton, MI",CMX,1464,15.4,6.3,0.2
+12335,Michigan,"Iron Mountain/Kingsfd, MI",IMT,1355,13.1,1.6,1.0
+10469,Michigan,"Kalamazoo, MI",AZO,4436,16.3,2.7,0.2
+12884,Michigan,"Lansing, MI",LAN,4956,15.5,1.7,0.2
+13459,Michigan,"Marquette, MI",MQT,1586,17.3,2.0,0.3
+13344,Michigan,"Muskegon, MI",MKG,1358,17.4,4.6,0.0
+14150,Michigan,"Pellston, MI",PLN,2124,12.2,4.5,0.1
+13184,Michigan,"Saginaw/Bay City/Midland, MI",MBS,4600,13.6,2.1,0.2
+11013,Michigan,"Sault Ste. Marie, MI",CIU,1362,15.5,1.8,0.1
+15380,Michigan,"Traverse City, MI",TVC,5373,19.3,2.2,0.2
+10631,Minnesota,"Bemidji, MN",BJI,1457,13.3,0.4,0.0
+10739,Minnesota,"Brainerd, MN",BRD,1277,14.3,1.0,0.1
+11337,Minnesota,"Duluth, MN",DLH,5057,14.9,3.0,0.1
+12129,Minnesota,"Hibbing, MN",HIB,1661,15.1,2.1,0.2
+12343,Minnesota,"International Falls, MN",INL,1252,13.1,1.4,1.3
+13487,Minnesota,"Minneapolis, MN",MSP,263825,15.0,0.6,0.3
+14633,Minnesota,"Rochester, MN",RST,4015,18.0,1.6,0.3
+12007,Mississippi,"Columbus, MS",GTR,1969,15.2,1.1,0.2
+11973,Mississippi,"Gulfport/Biloxi, MS",GPT,5505,13.0,1.7,0.2
+14109,Mississippi,"Hattiesburg/Laurel, MS",PIB,1314,19.5,1.8,0.4
+12448,Mississippi,"Jackson/Vicksburg, MS",JAN,9719,12.7,1.8,0.2
+13241,Mississippi,"Meridian, MS",MEI,2044,24.6,1.4,0.4
+10967,Missouri,"Cape Girardeau, MO",CGI,50,32.0,2.0,2.0
+11111,Missouri,"Columbia, MO",COU,621,13.0,1.1,0.2
+12511,Missouri,"Joplin, MO",JLN,625,15.8,1.8,0.6
+13198,Missouri,"Kansas City, MO",MCI,88656,14.3,1.1,0.2
+14783,Missouri,"Springfield, MO",SGF,5522,14.7,1.6,0.5
+15016,Missouri,"St. Louis, MO",STL,112558,17.6,1.0,0.2
+10620,Montana,"Billings, MT",BIL,6744,9.4,0.7,0.2
+10849,Montana,"Bozeman, MT",BZN,9249,13.1,0.7,0.3
+10779,Montana,"Butte, MT",BTM,1352,8.1,1.6,0.1
+12003,Montana,"Great Falls, MT",GTF,3420,8.4,0.3,0.2
+12156,Montana,"Helena, MT",HLN,3358,7.2,0.5,0.3
+11648,Montana,"Kalispell, MT",FCA,4858,11.2,0.5,0.5
+13486,Montana,"Missoula, MT",MSO,5116,10.7,0.7,0.4
+15897,Montana,"West Yellowstone, MT",WYS,456,14.7,0.7,0.2
+11980,Nebraska,"Grand Island, NE",GRI,645,21.2,2.0,0.5
+13029,Nebraska,"Lincoln, NE",LNK,6007,12.0,1.3,0.2
+13871,Nebraska,"Omaha, NE",OMA,37559,13.3,1.1,0.2
+10558,Nebraska,"Scottsbluff, NE",BFF,1,"",0.0,100.0
+11525,Nevada,"Elko, NV",EKO,1296,9.3,1.2,0.1
+12889,Nevada,"Las Vegas, NV",LAS,302406,19.8,0.9,0.2
+14570,Nevada,"Reno, NV",RNO,29956,17.6,1.1,0.2
+13296,New Hampshire,"Manchester, NH",MHT,12892,12.4,1.9,0.2
+10158,New Jersey,"Atlantic City, NJ",ACY,7204,18.5,2.7,0.3
+11618,New Jersey,"Newark, NJ",EWR,231751,22.9,2.5,0.3
+15356,New Jersey,"Trenton, NJ",TTN,4261,17.3,1.7,0.2
+10140,New Mexico,"Albuquerque, NM",ABQ,38027,15.8,0.7,0.2
+12177,New Mexico,"Hobbs, NM",HOB,1256,9.3,3.0,0.5
+14588,New Mexico,"Roswell, NM",ROW,900,12.2,0.6,0.1
+14674,New Mexico,"Santa Fe, NM",SAF,2666,18.5,2.0,0.7
+10257,New York,"Albany, NY",ALB,18752,14.4,1.2,0.3
+10577,New York,"Binghamton, NY",BGM,1746,15.1,1.8,0.0
+10792,New York,"Buffalo, NY",BUF,35790,15.2,1.9,0.2
+11537,New York,"Elmira/Corning, NY",ELM,2184,12.4,0.9,0.0
+12391,New York,"Islip, NY",ISP,9941,14.4,1.9,0.2
+12397,New York,"Ithaca/Cortland, NY",ITH,1839,19.5,1.1,0.2
+12953,New York,"New York, NY",LGA,189895,21.1,2.9,0.2
+12478,New York,"New York, NY",JFK,192205,22.8,1.7,0.3
+15070,New York,"Newburgh/Poughkeepsie, NY",SWF,2057,22.9,2.4,0.4
+12265,New York,"Niagara Falls, NY",IAG,939,18.2,5.5,0.5
+14025,New York,"Plattsburgh, NY",PBG,833,20.5,2.3,0.6
+14576,New York,"Rochester, NY",ROC,14989,15.2,2.6,0.2
+15096,New York,"Syracuse, NY",SYR,12199,16.5,2.4,0.2
+12197,New York,"White Plains, NY",HPN,13916,21.1,2.2,0.3
+10431,North Carolina,"Asheville, NC",AVL,6999,19.7,1.9,0.3
+11057,North Carolina,"Charlotte, NC",CLT,223771,18.3,1.1,0.2
+11641,North Carolina,"Fayetteville, NC",FAY,2989,14.6,1.8,0.2
+11995,North Carolina,"Greensboro/High Point, NC",GSO,11697,16.4,2.8,0.2
+13795,North Carolina,"Jacksonville/Camp Lejeune, NC",OAJ,2096,14.6,1.4,0.1
+11617,North Carolina,"New Bern/Morehead/Beaufort, NC",EWN,1148,13.9,0.7,0.2
+14492,North Carolina,"Raleigh/Durham, NC",RDU,70902,17.1,1.4,0.2
+12323,North Carolina,"Wilmington, NC",ILM,4672,12.1,1.2,0.1
+10627,North Dakota,"Bismarck/Mandan, ND",BIS,4635,13.1,1.3,0.3
+11447,North Dakota,"Devils Lake, ND",DVL,1224,11.4,4.2,1.6
+11637,North Dakota,"Fargo, ND",FAR,7038,14.4,1.6,0.3
+11898,North Dakota,"Grand Forks, ND",GFK,2884,11.3,0.9,0.1
+12519,North Dakota,"Jamestown, ND",JMS,1927,12.7,5.2,0.3
+13433,North Dakota,"Minot, ND",MOT,3173,12.3,1.0,0.1
+12389,North Dakota,"Williston, ND",ISN,2820,10.6,1.0,0.5
+10874,Ohio,"Akron, OH",CAK,11138,15.5,1.8,0.2
+11042,Ohio,"Cleveland, OH",CLE,69744,16.1,1.5,0.2
+11066,Ohio,"Columbus, OH",CMH,47035,15.2,1.2,0.2
+11267,Ohio,"Dayton, OH",DAY,12134,14.3,1.7,0.2
+15295,Ohio,"Toledo, OH",TOL,229,26.6,3.5,0.4
+12891,Oklahoma,"Lawton/Fort Sill, OK",LAW,1852,18.3,1.7,0.0
+13851,Oklahoma,"Oklahoma City, OK",OKC,30515,13.3,1.0,0.2
+15074,Oklahoma,"Stillwater, OK",SWO,1,100.0,0.0,0.0
+15370,Oklahoma,"Tulsa, OK",TUL,27898,12.6,1.1,0.3
+14489,Oregon,"Bend/Redmond, OR",RDM,6560,18.4,2.0,0.2
+11603,Oregon,"Eugene, OR",EUG,7520,18.8,0.9,0.2
+13264,Oregon,"Medford, OR",MFR,6351,17.9,1.6,0.1
+13964,Oregon,"North Bend/Coos Bay, OR",OTH,603,34.5,4.5,0.2
+14057,Oregon,"Portland, OR",PDX,121335,14.8,0.7,0.2
+10135,Pennsylvania,"Allentown/Bethlehem/Easton, PA",ABE,4507,14.9,1.7,0.3
+11577,Pennsylvania,"Erie, PA",ERI,2263,14.5,2.7,0.2
+13230,Pennsylvania,"Harrisburg, PA",MDT,5652,12.9,1.6,0.2
+12898,Pennsylvania,"Latrobe, PA",LBE,2125,15.9,3.1,0.2
+14100,Pennsylvania,"Philadelphia, PA",PHL,146358,19.7,1.4,0.3
+14122,Pennsylvania,"Pittsburgh, PA",PIT,53710,13.5,1.1,0.2
+10434,Pennsylvania,"Scranton/Wilkes-Barre, PA",AVP,3415,15.8,1.8,0.4
+14711,Pennsylvania,"State College, PA",SCE,2312,18.6,2.1,0.4
+10732,Puerto Rico,"Aguadilla, PR",BQN,3582,24.9,4.7,0.4
+14254,Puerto Rico,"Ponce, PR",PSE,1603,17.7,4.9,0.1
+14843,Puerto Rico,"San Juan, PR",SJU,51319,17.9,2.5,0.3
+14307,Rhode Island,"Providence, RI",PVD,26442,14.6,2.1,0.3
+10994,South Carolina,"Charleston, SC",CHS,28483,16.0,2.0,0.3
+10868,South Carolina,"Columbia, SC",CAE,8275,14.8,1.6,0.3
+11996,South Carolina,"Greer, SC",GSP,13489,14.8,1.7,0.3
+13577,South Carolina,"Myrtle Beach, SC",MYR,12222,17.4,2.7,0.2
+10141,South Dakota,"Aberdeen, SD",ABR,1471,11.5,1.2,0.1
+14457,South Dakota,"Rapid City, SD",RAP,6170,11.2,1.0,0.2
+11775,South Dakota,"Sioux Falls, SD",FSD,8668,15.6,1.5,0.2
+15323,Tennessee,"Bristol/Johnson City/Kingsport, TN",TRI,3823,13.9,1.1,0.2
+10980,Tennessee,"Chattanooga, TN",CHA,8631,18.0,1.4,0.3
+15412,Tennessee,"Knoxville, TN",TYS,13801,17.2,1.7,0.5
+13244,Tennessee,"Memphis, TN",MEM,28749,14.2,1.4,0.2
+10693,Tennessee,"Nashville, TN",BNA,106696,17.5,1.0,0.2
+10136,Texas,"Abilene, TX",ABI,203,24.6,2.0,1.0
+10279,Texas,"Amarillo, TX",AMA,6118,10.9,1.5,0.4
+10423,Texas,"Austin, TX",AUS,98384,16.4,0.9,0.2
+10728,Texas,"Beaumont/Port Arthur, TX",BPT,552,22.5,2.7,0.7
+10747,Texas,"Brownsville, TX",BRO,3113,9.2,2.3,0.4
+11049,Texas,"College Station/Bryan, TX",CLL,2453,12.0,2.0,0.1
+11140,Texas,"Corpus Christi, TX",CRP,5674,13.4,2.5,0.2
+11259,Texas,"Dallas, TX",DAL,138499,21.5,1.2,0.2
+11298,Texas,"Dallas/Fort Worth, TX",DFW,377257,20.8,1.1,0.2
+11540,Texas,"El Paso, TX",ELP,22169,15.5,0.8,0.2
+12206,Texas,"Harlingen/San Benito, TX",HRL,5496,15.3,1.9,0.3
+12266,Texas,"Houston, TX",IAH,266363,15.3,1.9,0.3
+12191,Texas,"Houston, TX",HOU,108623,19.9,2.2,0.2
+11495,Texas,"Houston, TX",EFD,1,100.0,0.0,0.0
+11982,Texas,"Killeen, TX",GRK,3382,13.0,1.7,0.1
+13061,Texas,"Laredo, TX",LRD,4037,13.1,2.1,0.2
+11905,Texas,"Longview, TX",GGG,390,24.1,4.4,0.0
+12896,Texas,"Lubbock, TX",LBB,8815,13.2,1.4,0.2
+13158,Texas,"Midland/Odessa, TX",MAF,11193,12.6,1.7,0.2
+13256,Texas,"Mission/McAllen/Edinburg, TX",MFE,4373,10.6,1.8,0.3
+14842,Texas,"San Angelo, TX",SJT,1640,18.4,2.1,0.2
+14683,Texas,"San Antonio, TX",SAT,63844,15.1,1.0,0.2
+15411,Texas,"Tyler, TX",TYR,528,11.9,1.3,0.0
+10155,Texas,"Waco, TX",ACT,1758,14.6,2.9,0.0
+14960,Texas,"Wichita Falls, TX",SPS,1120,15.7,3.2,0.0
+12016,U.S. Pacific Trust Territories and Possessions,"Guam, TT",GUM,732,13.9,0.3,0.0
+14222,U.S. Pacific Trust Territories and Possessions,"Pago Pago, TT",PPG,240,14.6,0.4,0.0
+14955,U.S. Pacific Trust Territories and Possessions,"Saipan, TT",SPN,1,100.0,0.0,0.0
+15024,U.S. Virgin Islands,"Charlotte Amalie, VI",STT,9172,16.0,3.2,0.9
+15027,U.S. Virgin Islands,"Christiansted, VI",STX,2200,15.5,2.5,0.3
+10918,Utah,"Cedar City, UT",CDC,1249,12.1,0.2,0.2
+14869,Utah,"Salt Lake City, UT",SLC,220731,13.2,0.4,0.4
+14794,Utah,"St. George, UT",SGU,4881,9.3,0.3,0.1
+11563,Utah,"Wendover, UT",ENV,1,"",0.0,100.0
+10785,Vermont,"Burlington, VT",BTV,7320,20.9,3.7,0.2
+10990,Virginia,"Charlottesville, VA",CHO,4615,18.4,2.3,0.5
+14098,Virginia,"Newport News/Williamsburg, VA",PHF,2136,11.3,1.2,0.3
+13931,Virginia,"Norfolk, VA",ORF,22384,14.8,1.9,0.3
+14524,Virginia,"Richmond, VA",RIC,31747,18.8,2.0,0.3
+14574,Virginia,"Roanoke, VA",ROA,3744,16.6,1.9,0.3
+12264,Virginia,"Washington, DC",IAD,71205,16.0,1.2,0.2
+11278,Virginia,"Washington, DC",DCA,152210,17.1,2.1,0.2
+10666,Washington,"Bellingham, WA",BLI,1330,14.3,1.4,1.2
+14252,Washington,"Pasco/Kennewick/Richland, WA",PSC,7618,13.4,1.4,0.3
+14747,Washington,"Seattle, WA",SEA,269801,16.4,0.5,0.3
+11884,Washington,"Spokane, WA",GEG,21720,13.3,0.6,0.1
+11146,West Virginia,"Charleston/Dunbar, WV",CRW,4563,18.6,2.3,0.2
+11027,West Virginia,"Clarksburg/Fairmont, WV",CKB,113,23.0,2.7,0.0
+10408,Wisconsin,"Appleton, WI",ATW,6079,12.5,1.9,0.1
+11471,Wisconsin,"Eau Claire, WI",EAU,1359,10.2,2.5,0.1
+11977,Wisconsin,"Green Bay, WI",GRB,8033,14.0,1.9,0.1
+13076,Wisconsin,"La Crosse, WI",LSE,2591,14.7,0.9,0.1
+13485,Wisconsin,"Madison, WI",MSN,16808,13.9,1.4,0.1
+13342,Wisconsin,"Milwaukee, WI",MKE,62737,14.7,1.1,0.2
+11203,Wisconsin,"Mosinee, WI",CWA,1975,17.4,3.3,0.3
+14520,Wisconsin,"Rhinelander, WI",RHI,1809,13.4,3.0,0.3
+11122,Wyoming,"Casper, WY",CPR,2280,8.2,0.7,0.2
+11097,Wyoming,"Cody, WY",COD,1852,11.0,1.0,0.1
+11865,Wyoming,"Gillette, WY",GCC,2050,10.3,1.5,0.3
+12441,Wyoming,"Jackson, WY",JAC,7439,18.3,1.2,0.3
+12888,Wyoming,"Laramie, WY",LAR,1249,11.2,3.2,0.2
+14543,Wyoming,"Rock Springs, WY",RKS,1332,8.1,2.6,0.2
